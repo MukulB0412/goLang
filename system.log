@@ -1,0 +1,4 @@
+[2025-06-23 10:00:01] INFO: nginx started
+[2025-06-23 10:01:01] ERROR: prometheus crashed
+[2025-06-23 10:02:01] INFO: redis running
+[2025-06-23 10:03:01] ERROR: OOMKilled container
