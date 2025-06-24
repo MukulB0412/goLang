@@ -4,7 +4,7 @@ import "fmt"
 
 func main() {
 	name := "Mukul"
-	age := 25
+	age := 20
 	city := "Delhi"
 
 	const company = "Google"
