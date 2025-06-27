@@ -4,7 +4,7 @@ import "fmt"
 
 func getNetworkInfo() (string, int) {
 	Network := "eth0"
-	speed := 1000
+	speed := 918
 	return Network, speed
 }
 
