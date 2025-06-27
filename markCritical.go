@@ -10,7 +10,7 @@ func markCritical(cpu *int) {
 }
 
 func main() {
-	cpuUsage := 95
+	cpuUsage := 100
 	markCritical(&cpuUsage)
 	fmt.Println("Post Check CPU Usage:", cpuUsage)
 }
