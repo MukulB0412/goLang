@@ -12,7 +12,7 @@ func checkContainerStatus(state string, restartCount int) {
 	} else if state == "stopped" {
 		fmt.Println("Container is stopped")
 	} else {
-		fmt.Println("Unknown container state")
+		fmt.Println("Unknown container stat")
 	}
 }
 
