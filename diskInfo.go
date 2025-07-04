@@ -4,7 +4,7 @@ import "fmt"
 
 func getDiskInfo() (string, int) {
 	name := "sda1"
-	size := 2048
+	size := 10000
 	return name, size
 }
 
